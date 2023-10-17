@@ -6,11 +6,7 @@
       id="iconSidenav"
       @click="toggleSidebar"
     ></i>
-    <a
-      class="navbar-brand m-0"
-      href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html"
-      target="_blank"
-    >
+    <a class="navbar-brand m-0" href="/" target="_blank">
       <img src="/images/logo.png" class="navbar-brand-img h-100" alt="main_logo" />
       <span class="ms-1 font-weight-bold">Komgrip Technologies</span>
     </a>
