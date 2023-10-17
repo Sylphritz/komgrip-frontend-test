@@ -2,7 +2,7 @@
 
 ว่าจะเขียน test cases เพิ่มแต่ไม่ไหวแล้วครับ ง่วงมาก น่าจะสลบก่อน
 
-## [LIVE DEMO](https://komgrip-frontend-test.pages.dev/)
+## [Click here to see the LIVE DEMO](https://komgrip-frontend-test.pages.dev/)
 
 ## Project Setup
 
