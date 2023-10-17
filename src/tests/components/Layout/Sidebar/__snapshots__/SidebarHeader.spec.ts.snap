@@ -1,0 +1,29 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SidebarHeader > matches the snapshot 1`] = `
+<div
+  class="sidenav-header"
+>
+  <i
+    aria-hidden="true"
+    class="fas fa-times p-3 cursor-pointer text-secondary opacity-5 position-absolute end-0 top-0 d-xl-none"
+    id="iconSidenav"
+  />
+  <a
+    class="navbar-brand m-0"
+    href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html"
+    target="_blank"
+  >
+    <img
+      alt="main_logo"
+      class="navbar-brand-img h-100"
+      src="/images/logo.png"
+    />
+    <span
+      class="ms-1 font-weight-bold"
+    >
+      Komgrip Technologies
+    </span>
+  </a>
+</div>
+`;

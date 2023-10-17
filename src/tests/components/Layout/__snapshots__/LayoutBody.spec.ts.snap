@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`LayoutBody > renders successfully and matches the snapshot 1`] = `
+<div
+  class="container-fluid py-4"
+>
+  
+  
+  <layout-footer-stub />
+</div>
+`;

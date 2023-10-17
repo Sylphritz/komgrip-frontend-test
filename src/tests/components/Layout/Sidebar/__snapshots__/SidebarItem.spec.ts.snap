@@ -1,0 +1,30 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SidebarItem > renders successfully and matches the snapshot 1`] = `
+<li
+  class="nav-item"
+  data-v-b6f5b118=""
+>
+  <a
+    class="nav-link"
+    data-v-b6f5b118=""
+    href="testUrl"
+  >
+    <div
+      class="icon icon-shape icon-sm shadow border-radius-md bg-white text-center me-2 d-flex align-items-center justify-content-center"
+      data-v-b6f5b118=""
+    >
+      <anonymous-stub
+        data-v-b6f5b118=""
+      />
+    </div>
+    <span
+      class="nav-link-text ms-1"
+      data-v-b6f5b118=""
+    >
+      
+      
+    </span>
+  </a>
+</li>
+`;

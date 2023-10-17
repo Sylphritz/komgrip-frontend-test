@@ -1,0 +1,46 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`LayoutSidebar > has a white background when opened in mobile responsive mode 1`] = `false`;
+
+exports[`LayoutSidebar > renders successfully and matches the snapshot 1`] = `
+<aside
+  class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3"
+  id="sidenav-main"
+>
+  <sidebar-header-stub />
+  <hr
+    class="horizontal dark mt-0"
+  />
+  <div
+    class="collapse navbar-collapse w-auto max-height-vh-100"
+    id="sidenav-collapse-main"
+  >
+    <ul
+      class="navbar-nav"
+    >
+      <sidebar-item-stub
+        icon="[object Object]"
+        isactive="true"
+        url="/"
+      />
+      <sidebar-item-stub
+        isactive="false"
+        url="#"
+      />
+      <sidebar-item-stub
+        isactive="false"
+        url="#"
+      />
+      <sidebar-item-stub
+        isactive="false"
+        url="#"
+      />
+      <sidebar-item-stub
+        isactive="false"
+        url="#"
+      />
+    </ul>
+  </div>
+  <sidebar-footer-stub />
+</aside>
+`;

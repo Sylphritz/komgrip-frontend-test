@@ -1,0 +1,41 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AssetTableRow > renders successfully and matches the snapshot 1`] = `
+<tr>
+  <td
+    class="text-center"
+    data-test="asset-table-row-rank"
+  >
+    1.
+  </td>
+  <td
+    data-test="asset-table-row-name"
+  >
+    Bitcoin
+  </td>
+  <td
+    class="text-center"
+    data-test="asset-table-row-symbol"
+  >
+    BTC
+  </td>
+  <td
+    class="text-end"
+    data-test="asset-table-row-supply"
+  >
+    17,193,925 / 21,000,000
+  </td>
+  <td
+    class="text-end"
+    data-test="asset-table-row-price"
+  >
+    $6,929.82
+  </td>
+  <td
+    class="text-center text-danger"
+    data-test="asset-table-row-change"
+  >
+    -0.81% 
+  </td>
+</tr>
+`;
